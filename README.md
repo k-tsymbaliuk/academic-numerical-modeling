@@ -13,3 +13,9 @@ This project demonstrates experience with:
 - numerical solution of partial differential equations
 - finite-difference methods
 - implementation of iterative algorithms
+
+### Problem setup and geometry
+![Geometry and boundary conditions](images/geometry_and_boundary_conditions.png)
+
+### Numerical results
+![Electric potential distribution](images/potential_distribution.png)
